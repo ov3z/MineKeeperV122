@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b12bd00a0899ec34296d86586bade907, type: 3}
+  m_Name: 17. UpgradeTradeStation
+  m_EditorClassIdentifier: 
+  description: Upgrade Market Capacity
+  _reward: {fileID: 11400000, guid: 88b6ecd19d41da74b88c443a4db3c8d3, type: 2}
+  _objectiveAmount: 1
+  OpenRewardPanel: 0
+  icon: {fileID: 21300000, guid: 6b01e76ddcafac14a8d5677cbe9a1bfe, type: 3}
+  upgradePlace: 5
+  upgradeTarget: 1
+  upgradeButton: 0

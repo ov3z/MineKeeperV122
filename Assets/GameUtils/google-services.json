@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17931903321",
+    "project_id": "yg-184e45",
+    "storage_bucket": "yg-184e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17931903321:android:b4c78cab73c7ddc124ec48",
+        "android_client_info": {
+          "package_name": "com.Onki.MKeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWuWiulPpXZyqlxn_itS-FjtrPAPrIPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

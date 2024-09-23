@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91fd874e99c0db94a837a9a221302022, type: 3}
+  m_Name: 20. Win battle
+  m_EditorClassIdentifier: 
+  description: Explore Caves Pt. 2
+  _reward: {fileID: 11400000, guid: 976104120b0183e4489642730ccaf9b6, type: 2}
+  _objectiveAmount: 1
+  OpenRewardPanel: 0
+  icon: {fileID: 21300000, guid: 35145a5de8149c444b5d7412af249cb1, type: 3}

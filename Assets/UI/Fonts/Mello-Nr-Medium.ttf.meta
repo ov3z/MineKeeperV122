@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1bc201301284226469e4f9e900d7138f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mello Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9bf5917d8b8823348975df3fb432f272, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

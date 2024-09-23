@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8847a53fb06642643a05b59b806168e5, type: 3}
+  m_Name: 14. Open Blueberry Bush
+  m_EditorClassIdentifier: 
+  description: 'Open Raspberry Bush '
+  _reward: {fileID: 11400000, guid: 7d98c6aa4a0a01046abf944f6bebccd9, type: 2}
+  _objectiveAmount: 1
+  OpenRewardPanel: 0
+  icon: {fileID: 21300000, guid: 3db1115b44ce7a34f95c03488f71ccac, type: 3}
+  questType: 2

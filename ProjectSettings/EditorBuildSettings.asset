@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitialLoadScene.unity
+    guid: 964c7341186bd914eb18ea409a9a475b
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/CaveLoadScene.unity
+    guid: 6d8e99d68a3a2094699377c3ab79f216
+  - enabled: 1
+    path: Assets/Scenes/CaveScene.unity
+    guid: 998f1889078228f4e8663e7dfcfd7d89
+  - enabled: 1
+    path: Assets/Scenes/IntroductonScene_1.unity
+    guid: 2316e36c6ce442e4bbff670b13b6b22a
+  - enabled: 1
+    path: Assets/Scenes/IntroductonScene_2.unity
+    guid: 48d130f2bf8304d438b0431de5b8abe9
+  - enabled: 1
+    path: Assets/Scenes/IntroductonScene_3.unity
+    guid: 8fe90ea03be054b40914d869cc4fc5fa
+  - enabled: 1
+    path: Assets/Scenes/GenderSelectionScene.unity
+    guid: e4d6e78e89dc1e54daaf2d670760ef37
+  m_configObjects: {}

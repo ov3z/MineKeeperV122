@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcf417bceeba474b8d12501c906cef3, type: 3}
+  m_Name: YCConfigData
+  m_EditorClassIdentifier: 
+  gameYcId: 184e45
+  InAppRemoveAds: 
+  InAppRemoveAdsCanRemoveInBanner: 1
+  InappDebug: 1
+  ABVersion: 4
+  ABForcedSample: 
+  ABSamples:
+  - afterCave
+  - oneInteraction
+  ABDebugLog: 1
+  UseBanners: 1
+  UseBannersInEditor: 1
+  <TransparentBannerBackground>k__BackingField: 1
+  InterstitialInterval: 40
+  rewardedResetDelay: 1
+  activeLogs: 0
+  Name: Mine Keeper
+  FbAppId: 919733173527339
+  FbClientToken: 1f664f9f6838a4d64d93c0b0bb105c59
+  appleId: 
+  MmpTenjin: 1
+  AdMobAndroidAppId: ca-app-pub-8647334993882685~7247830081
+  AdMobIosAppId: 
+  IosInterstitial: 
+  IosRewarded: 
+  IosBanner: 
+  AndroidInterstitial: 06c63876e37b04ff
+  AndroidRewarded: eb6adee957b1209b
+  AndroidBanner: baa3a94deaa2b21b
+  AmazonIosAppID: 
+  AmazonIosInterstitial: 
+  AmazonIosRewarded: 
+  AmazonIosBanner: 
+  AmazonAndroidAppID: 
+  AmazonAndroidInterstitial: 
+  AmazonAndroidRewarded: 
+  AmazonAndroidBanner: 

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>00e47e18-f4ef-41c6-9184-09587b4fdc9a5</key>
+    <float>0</float>
+    <key>Attack</key>
+    <float>10</float>
+    <key>Axe</key>
+    <float>1</float>
+    <key>BoarRemainingTimeKey</key>
+    <float>150</float>
+    <key>Capacity</key>
+    <float>100</float>
+    <key>ChoseGender</key>
+    <integer>1</integer>
+    <key>CloseTime</key>
+    <string>5/14/2024 10:35:43 AM</string>
+    <key>Collect 10 Wood</key>
+    <float>10</float>
+    <key>CurrentQuest</key>
+    <integer>6</integer>
+    <key>DeliveryGuy0</key>
+    <float>150</float>
+    <key>DeliveryGuy2</key>
+    <float>150</float>
+    <key>DeliveryGuy3</key>
+    <float>150</float>
+    <key>FirstLoginDate</key>
+    <string>5/14/2024 10:35:18 AM</string>
+    <key>Gender</key>
+    <integer>0</integer>
+    <key>Health</key>
+    <float>100</float>
+    <key>HorPro</key>
+    <float>9.117909E-07</float>
+    <key>IntroductionPart</key>
+    <integer>0</integer>
+    <key>IsBuilded0862062a-c0b1-4867-82c2-97fd86c4a3ed</key>
+    <integer>1</integer>
+    <key>IsBuilded181a4e7e-26a1-470a-bba3-932cd76c936e</key>
+    <integer>1</integer>
+    <key>IsBuildedac99c172-c204-43b7-b3f7-b631a1d0db4c</key>
+    <integer>1</integer>
+    <key>IsFirstLoad</key>
+    <integer>0</integer>
+    <key>IsFromCave</key>
+    <integer>0</integer>
+    <key>IsFromInitialLoadScene</key>
+    <integer>0</integer>
+    <key>IsPayedOut00e47e18-f4ef-41c6-9184-09587b4fdc9a</key>
+    <integer>1</integer>
+    <key>Kill 2 Enemies</key>
+    <float>0</float>
+    <key>Mine 10 Ores</key>
+    <float>0</float>
+    <key>PreviousEnterTime</key>
+    <string>5/14/2024 10:35:43 AM</string>
+    <key>Resource0</key>
+    <float>0</float>
+    <key>Resource1</key>
+    <float>0</float>
+    <key>Resource2</key>
+    <float>0</float>
+    <key>Resource3</key>
+    <float>0</float>
+    <key>Resource4</key>
+    <float>10</float>
+    <key>Resource5</key>
+    <float>0</float>
+    <key>Resource6</key>
+    <float>0</float>
+    <key>Resource7</key>
+    <float>0</float>
+    <key>Resource8</key>
+    <float>0</float>
+    <key>Resource9</key>
+    <float>0</float>
+    <key>RotationAngle</key>
+    <float>308.698</float>
+    <key>scondsToRecieveReward</key>
+    <integer>86377</integer>
+    <key>Soldier0</key>
+    <integer>0</integer>
+    <key>Soldier1</key>
+    <integer>0</integer>
+    <key>unity.player_session_count</key>
+    <string>5638</string>
+    <key>Unlock The Gate</key>
+    <float>0</float>
+    <key>UserName</key>
+    <string>mine</string>
+  </dict>
+</plist>

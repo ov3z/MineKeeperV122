@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fce88f29e484c9b4e98e457fb5523fd0, type: 3}
+  m_Name: 13. Sell 10 diamonds
+  m_EditorClassIdentifier: 
+  description: Sell 10 Diamonds
+  _reward: {fileID: 11400000, guid: 4dcd7811036fa96458fa94573a545bd2, type: 2}
+  _objectiveAmount: 10
+  OpenRewardPanel: 0
+  icon: {fileID: 21300000, guid: 5d37046722356b34c81b3f8527158357, type: 3}
+  spendingType: 050000000600000007000000
+  spendingMethod: 1

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5289801714135101080
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5289801714135101087}
+  - component: {fileID: 5289801714135101086}
+  m_Layer: 0
+  m_Name: QuestSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5289801714135101087
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5289801714135101080}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5289801714135101086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5289801714135101080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55e6b937289515940bda8635a642bbb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quests:
+  - {fileID: 11400000, guid: 6b6dd5d0dfeb52e4e80844c331a9d064, type: 2}
+  - {fileID: 11400000, guid: 0bd827ff4b47e56488e1124d9161680d, type: 2}
+  - {fileID: 11400000, guid: 33d4340cb5780aa4d9ed28cdd9baeb5d, type: 2}
+  - {fileID: 11400000, guid: ef4bdf8ac14326045a64f1d4b6b1ef93, type: 2}
+  - {fileID: 11400000, guid: 7f878ac47cbba4d4c8d2fe6674d0aab9, type: 2}
+  - {fileID: 11400000, guid: 956c443b47d5dd04dba6ed742a77c781, type: 2}
+  - {fileID: 11400000, guid: 6ea85c337e8e83745a81a905d4ce3dac, type: 2}
+  - {fileID: 11400000, guid: 2cf590491df66c24aba0affb414f911a, type: 2}
+  - {fileID: 11400000, guid: 5326f6ca329506845add235573856059, type: 2}
+  - {fileID: 11400000, guid: 2ff3b6ece9081b74c8c979bbfdba1683, type: 2}
+  - {fileID: 11400000, guid: 416b13ec625ddfa4ba26d9ad9d59322d, type: 2}
+  - {fileID: 11400000, guid: b5580460b8f699d48ba1db8717b4241c, type: 2}
+  - {fileID: 11400000, guid: c2f33b4118bddd4438599d3f36a544d2, type: 2}
+  - {fileID: 11400000, guid: bcf4e39ca72c8c64dbb0ebf8df4f65c0, type: 2}
+  - {fileID: 11400000, guid: 25cdd31191d41d444956456da42c4c67, type: 2}
+  - {fileID: 11400000, guid: 41ee083a26aa3b0438fe834c09969965, type: 2}
+  - {fileID: 11400000, guid: 9c48370949b62e64dae7a4d929816743, type: 2}
+  - {fileID: 11400000, guid: e431eb07b8aee7746ba30e1d745fc3e4, type: 2}
+  - {fileID: 11400000, guid: 7392f386f7579db49837f7882bf8e259, type: 2}
+  - {fileID: 11400000, guid: 1bc4e7bf36c4d694286c90affa2c8af9, type: 2}
+  - {fileID: 11400000, guid: b7fe8d7b0d985bb42abf0359f2146610, type: 2}
+  - {fileID: 11400000, guid: 14ef20c1856bf8243a9891b3cf3e0f61, type: 2}
+  - {fileID: 11400000, guid: e123b879b2967ad45b9bb8afeb010851, type: 2}
+  - {fileID: 11400000, guid: 735bf6b80ea464e4d8074860671e002e, type: 2}
+  - {fileID: 11400000, guid: 96a77be005a7c17468510b41019df9ea, type: 2}
+  - {fileID: 11400000, guid: de35978e2e41c4d49ac173179b7a1904, type: 2}
+  - {fileID: 11400000, guid: 3868ffd07fe18dd47827070c3cd087b8, type: 2}
+  - {fileID: 11400000, guid: 8f5d80a603da46243ad5e599cebee431, type: 2}
+  - {fileID: 11400000, guid: 64baf5b99fd685649b82c487c6d40636, type: 2}
+  - {fileID: 11400000, guid: 2f91664cbaebae341b1811e26b1cad5b, type: 2}
+  - {fileID: 11400000, guid: 8ae6a750845ea494eb1eec63a0cba40d, type: 2}
+  - {fileID: 11400000, guid: 3eec6ccdb00d86b4cb63e452625a3fac, type: 2}
+  - {fileID: 11400000, guid: a21c9292e90c979439718d3878fafc9a, type: 2}
+  - {fileID: 11400000, guid: 04f67c0d7e24e2748870eef7f4087119, type: 2}
+  - {fileID: 11400000, guid: 8a99b3ff03c116044b65730101b836b8, type: 2}
+  - {fileID: 11400000, guid: 9ed8dc619c6f4a24b8a782bc568bed5d, type: 2}
+  - {fileID: 11400000, guid: 2255963ae0fc411428a6ee9565c720cf, type: 2}
+  - {fileID: 11400000, guid: 93ad8d83a83c49d40af91f6467727171, type: 2}
+  - {fileID: 11400000, guid: 78756c33c2dc69544b25eb3645206506, type: 2}
+  - {fileID: 11400000, guid: 5422eda64d837da4e9b884b3ed1d0d3c, type: 2}
+  - {fileID: 11400000, guid: 50927d994748b564ca26dadeca5a2a04, type: 2}
+  - {fileID: 11400000, guid: 71469c7a2cb1aa54f8f7ed5b8d5db738, type: 2}
+  - {fileID: 11400000, guid: 60f27d3af55c92847888edb2f1b0bffb, type: 2}
+  - {fileID: 11400000, guid: 78ad921b31e683d48bb5797265aa0570, type: 2}
+  - {fileID: 11400000, guid: 28f76d0f425bb694dba83128ee138249, type: 2}
+  - {fileID: 11400000, guid: 6e2bf90b5a3693f43a71a3eda02b5a89, type: 2}
+  - {fileID: 11400000, guid: c44325e9d602af54f9696f60bcc02c08, type: 2}
+  - {fileID: 11400000, guid: 46bed1ae3b206d74eb8a98ac5ef6b1be, type: 2}
+  - {fileID: 11400000, guid: cb072180460e62a4c8ab380babdb60cc, type: 2}
+  - {fileID: 11400000, guid: 12d64fa1f4c7a8e4e8111bf2ff907800, type: 2}
+  reusableQuestsquests:
+  - {fileID: 11400000, guid: 6ea85c337e8e83745a81a905d4ce3dac, type: 2}
+  - {fileID: 11400000, guid: 5326f6ca329506845add235573856059, type: 2}
+  - {fileID: 11400000, guid: bcf4e39ca72c8c64dbb0ebf8df4f65c0, type: 2}
+  - {fileID: 11400000, guid: 25cdd31191d41d444956456da42c4c67, type: 2}
+  - {fileID: 11400000, guid: 1bc4e7bf36c4d694286c90affa2c8af9, type: 2}
+  - {fileID: 11400000, guid: b7fe8d7b0d985bb42abf0359f2146610, type: 2}
+  - {fileID: 11400000, guid: 41ee083a26aa3b0438fe834c09969965, type: 2}
+  - {fileID: 11400000, guid: e431eb07b8aee7746ba30e1d745fc3e4, type: 2}
+  - {fileID: 11400000, guid: afd233c311794374c94be1f0ab417b68, type: 2}
+  - {fileID: 11400000, guid: cb072180460e62a4c8ab380babdb60cc, type: 2}
+  - {fileID: 11400000, guid: 64baf5b99fd685649b82c487c6d40636, type: 2}
+  - {fileID: 11400000, guid: 8ae6a750845ea494eb1eec63a0cba40d, type: 2}
+  - {fileID: 11400000, guid: 3eec6ccdb00d86b4cb63e452625a3fac, type: 2}
+  - {fileID: 11400000, guid: 2255963ae0fc411428a6ee9565c720cf, type: 2}
+  - {fileID: 11400000, guid: 93ad8d83a83c49d40af91f6467727171, type: 2}
+  - {fileID: 11400000, guid: 78756c33c2dc69544b25eb3645206506, type: 2}
+  - {fileID: 11400000, guid: 28f76d0f425bb694dba83128ee138249, type: 2}
+  - {fileID: 11400000, guid: c44325e9d602af54f9696f60bcc02c08, type: 2}
+  uiController: {fileID: 0}
+  tickImage: {fileID: 21300000, guid: bdf3e067ba806354fbcdf81c95f72dc6, type: 3}
+  isThereAutoComplete: 0

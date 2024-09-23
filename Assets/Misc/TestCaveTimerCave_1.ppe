@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>00e47e18-f4ef-41c6-9184-09587b4fdc9a5</key>
+    <float>0</float>
+    <key>12128ac1-2aae-4be2-aff2-49fcead9419d0</key>
+    <float>0</float>
+    <key>12128ac1-2aae-4be2-aff2-49fcead9419d4</key>
+    <float>0</float>
+    <key>4d838feb-5d30-47eb-9718-d1d339a6d5920</key>
+    <float>0</float>
+    <key>4d838feb-5d30-47eb-9718-d1d339a6d5924</key>
+    <float>0</float>
+    <key>75a9dc56-4a61-4ac5-8856-75c0d04451684</key>
+    <float>0</float>
+    <key>AreDailyRewardsEnabled</key>
+    <integer>1</integer>
+    <key>AreSkinsEnabled</key>
+    <integer>1</integer>
+    <key>Attack</key>
+    <float>10</float>
+    <key>Axe</key>
+    <float>1</float>
+    <key>BoarRemainingTimeKey</key>
+    <float>150</float>
+    <key>Build Fruit Stand</key>
+    <float>0</float>
+    <key>Build House</key>
+    <float>0</float>
+    <key>Capacity</key>
+    <float>100</float>
+    <key>ChoseGender</key>
+    <integer>1</integer>
+    <key>CloseTime</key>
+    <string>5/8/2024 5:36:15 PM</string>
+    <key>Collect 10 Raspberries</key>
+    <float>0</float>
+    <key>Collect 10 Wood</key>
+    <float>36</float>
+    <key>Collect 15 Raspberries</key>
+    <float>30</float>
+    <key>Collect 25 Wood</key>
+    <float>0</float>
+    <key>CurrentQuest</key>
+    <integer>13</integer>
+    <key>CurrentXp</key>
+    <integer>10</integer>
+    <key>DeliveryGuy0</key>
+    <float>150</float>
+    <key>DeliveryGuy2</key>
+    <float>150</float>
+    <key>DeliveryGuy3</key>
+    <float>150</float>
+    <key>DidUnlockInterstitials</key>
+    <integer>1</integer>
+    <key>FirstLoginDate</key>
+    <string>5/8/2024 5:32:49 PM</string>
+    <key>Gender</key>
+    <integer>0</integer>
+    <key>HasUnlockedDailyQuests</key>
+    <integer>1</integer>
+    <key>Health</key>
+    <float>100</float>
+    <key>InterstitialTimer</key>
+    <float>32</float>
+    <key>IntroductionPart</key>
+    <integer>0</integer>
+    <key>IsBuilded017ab8d5-54be-457d-bf4a-f12083f8d016</key>
+    <integer>1</integer>
+    <key>IsBuilded0862062a-c0b1-4867-82c2-97fd86c4a3ed</key>
+    <integer>1</integer>
+    <key>IsBuilded181a4e7e-26a1-470a-bba3-932cd76c936e</key>
+    <integer>1</integer>
+    <key>IsBuilded2b5688ff-730b-4440-82bb-9dc422b13c36</key>
+    <integer>1</integer>
+    <key>IsBuilded75736e11-019f-4d2a-ae5f-7f0969ffe958</key>
+    <integer>1</integer>
+    <key>IsBuilded8575a561-006a-4829-868c-22058b1d0d86</key>
+    <integer>1</integer>
+    <key>IsBuilded953ae017-8fc8-4cf0-902b-2f45a97c1249</key>
+    <integer>1</integer>
+    <key>IsBuilded9a847d97-9e4d-4175-b473-5a0ce0956401</key>
+    <integer>1</integer>
+    <key>IsBuilded9bdca7eb-4b72-4864-916a-1acb3bdc8039</key>
+    <integer>1</integer>
+    <key>IsBuildeda7b95f02-bc1f-478d-a909-7644ed824d22</key>
+    <integer>1</integer>
+    <key>IsBuildedac99c172-c204-43b7-b3f7-b631a1d0db4c</key>
+    <integer>1</integer>
+    <key>IsBuildede98fdf56-16fe-46a9-bb29-303c14bfe6bf</key>
+    <integer>1</integer>
+    <key>IsFirstLoad</key>
+    <integer>0</integer>
+    <key>IsFromCave</key>
+    <integer>0</integer>
+    <key>IsFromInitialLoadScene</key>
+    <integer>0</integer>
+    <key>IsPayedOut00e47e18-f4ef-41c6-9184-09587b4fdc9a</key>
+    <integer>1</integer>
+    <key>IsPayedOut12128ac1-2aae-4be2-aff2-49fcead9419d</key>
+    <integer>1</integer>
+    <key>IsPayedOut4d838feb-5d30-47eb-9718-d1d339a6d592</key>
+    <integer>1</integer>
+    <key>IsPayedOut75a9dc56-4a61-4ac5-8856-75c0d0445168</key>
+    <integer>1</integer>
+    <key>Kill 2 Enemies</key>
+    <float>0</float>
+    <key>Level</key>
+    <integer>1</integer>
+    <key>Mine 10 Ores</key>
+    <float>0</float>
+    <key>Open Raspberry Bush</key>
+    <float>0</float>
+    <key>PreviousEnterTime</key>
+    <string>5/8/2024 5:36:15 PM</string>
+    <key>Resource0</key>
+    <float>0</float>
+    <key>Resource1</key>
+    <float>0</float>
+    <key>Resource2</key>
+    <float>0</float>
+    <key>Resource3</key>
+    <float>0</float>
+    <key>Resource4</key>
+    <float>1</float>
+    <key>Resource5</key>
+    <float>0</float>
+    <key>Resource6</key>
+    <float>0</float>
+    <key>Resource7</key>
+    <float>0</float>
+    <key>Resource8</key>
+    <float>0</float>
+    <key>Resource9</key>
+    <float>0</float>
+    <key>ResourceAmount5f2f5349-dc58-431a-ada4-de030ee3670e</key>
+    <float>2</float>
+    <key>RotationAngle</key>
+    <float>283.0626</float>
+    <key>scondsToRecieveReward</key>
+    <integer>86240</integer>
+    <key>Sell 10 Raspberries</key>
+    <float>10</float>
+    <key>Soldier0</key>
+    <integer>0</integer>
+    <key>Soldier1</key>
+    <integer>0</integer>
+    <key>TradeStation0Balance</key>
+    <float>7</float>
+    <key>TradeStation2Balance</key>
+    <float>0</float>
+    <key>TradeStation3Balance</key>
+    <float>0</float>
+    <key>unity.player_session_count</key>
+    <string>5566</string>
+    <key>Unlock The Gate</key>
+    <float>2</float>
+    <key>UserName</key>
+    <string>mienr</string>
+    <key>WasLevelUpped</key>
+    <integer>0</integer>
+  </dict>
+</plist>
